@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="pohe-zealand.dk" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\EASJ\\OneDrive\ -\ Zealand\ Sjællands\ Erhvervsakademi\(1\)\\Dokumenter\\UV\\SWC2021F\\MyRazor\\HoteDB21Starter\\RazorPageHotelApp\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
